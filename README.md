@@ -6,7 +6,7 @@
 
 ## 🧭 快速导航
 
-- 🌐 个人简历站：[xingluke.cn](https://www.xingluke.cn/)
+- 🌐 个人简历
 - ✉️ 邮箱：1240332437@qq.com
 - 📝 CSDN 博客：[weixin_45530192](https://blog.csdn.net/weixin_45530192)
 - 📦 AI 云开发库（Gitee）：[callmeprice/raglib](https://gitee.com/callmeprice/raglib)
@@ -31,7 +31,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**能力雷达**：Java 后端 90 · AI 编程 84 · 数据库/中间件 78 · DevOps 72 · 前端开发 70 · 项目管理 62
+**能力雷达**： 后端 90 · AI 编程 84 · 数据库/中间件 78 · DevOps 72 · 前端开发 70 · 项目管理 62
 
 ---
 
