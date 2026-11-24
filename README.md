@@ -42,6 +42,7 @@
 | **后端与数据** | Go、TypeScript/Node.js、Java、Python、Spring Boot、GraphQL Yoga、Kysely、PostgreSQL/Aurora、MySQL、Redis、Kafka、MQTT、TDengine |
 | **平台与可观测性** | Docker、Kubernetes/EKS、Pulumi、GitHub Actions、Jenkins、Datadog、OpenTelemetry、Prometheus、Grafana、ELK |
 | **Web 与自动化** | React、Next.js、Vue、Playwright、Cheerio、Stagehand、Steel |
+| **远程协作工具** | Slack、Dash、Zoom、Google Meet、Microsoft Teams、Notion、Jira、Linear、GitHub Pull Requests、GitLab、飞书 |
 
 ---
 
